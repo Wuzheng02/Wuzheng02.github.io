@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am Zheng Wu, a senior undergraduate student at the School of Computer Science and Engineering, Shanghai Jiao Tong University. I will receive my Bachelor's degree in 2025 and will continue my studies as a Master's student under the supervision of Prof. Zhuosheng Zhang. My research interests include natural language processing, (multimodal) large language models, and computer-using agents.
+I am Zheng Wu, a senior undergraduate student at the School of Computer Science, Shanghai Jiao Tong University. I will receive my Bachelor's degree in 2025 and will continue my studies as a Master's student under the supervision of Prof. Zhuosheng Zhang. My research interests include natural language processing, (multimodal) large language models, and computer-using agents.
 
 Experience
 =====
-**B.Eng. in School of Computer Science and Engineering, Shanghai Jiao Tong University**  
+**B.Eng. in School of Computer Science, Shanghai Jiao Tong University**  
 <small>Sept. 2021 – June 2025</small>  
 <div align="right">Supervisor: Prof. Zhuosheng Zhang</div>
 
-**M.Eng. in School of Computer Science and Engineering, Shanghai Jiao Tong University**  
+**M.Eng. in School of Computer Science, Shanghai Jiao Tong University**  
 <small>Sept. 2025 – Present</small>  
 <div align="right">Supervisor: Prof. Zhuosheng Zhang</div>
 
