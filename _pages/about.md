@@ -12,7 +12,7 @@ I am Zheng Wu, a senior undergraduate student at the School of Computer Science 
 Experience
 =====
 B.Eng. in School of Computer Science and Engineering, Shanghai Jiao Tong University, Sept. 2021 – June 2025
-Supervisor: Prof. Zhuosheng Zhang
+                                            Supervisor: Prof. Zhuosheng Zhang
 
 M.Eng. in School of Computer Science and Engineering, Shanghai Jiao Tong University, Sept. 2025 – Present
 Supervisor: Prof. Zhuosheng Zhang
