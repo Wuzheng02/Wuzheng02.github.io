@@ -21,9 +21,9 @@ Experience
 
 Awards & Honors
 ======
-National Scholarship, 2022(top 0.2% nationwide)
+**National Scholarship**, 2022(top 0.2% nationwide)
 
-National Scholarship, 2024(top 0.2% nationwide)
+**National Scholarship**, 2024(top 0.2% nationwide)
 
 Publications
 ======
@@ -60,3 +60,10 @@ Publications
   *(under review)*
 
 ---
+
+Tutorials and Contributions
+=====
+Participating: **Dive into LLMs《动手学大模型》Course Series** ![GitHub stars](https://img.shields.io/github/stars/Lordog/dive-into-llms?style=social)
+
+
+Participating: **《大模型开发全流程》Course Series** [Course Link](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1)
