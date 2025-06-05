@@ -39,22 +39,22 @@ Publications
 
 * **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang.
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
-  *Advances in Neural Information Processing Systems (arXiv, under review)* [PDF](https://arxiv.org/pdf/2505.12842)
+  *(arXiv, under review)* [PDF](https://arxiv.org/pdf/2505.12842)
 
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
-  *Advances in Neural Information Processing Systems (under review)* 
+  *(under review)* 
 
 * Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
-  *Proceedings of the 33rd ACM International Conference on Multimedia (arXiv, under review)* [PDF](https://arxiv.org/pdf/2503.00401)
+  *(arXiv, under review)* [PDF](https://arxiv.org/pdf/2503.00401)
 
 * Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu.
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
-  *Proceedings of the Conference on Empirical Methods in Natural Language Processing (arXiv, under review)* [PDF](https://arxiv.org/pdf/2505.14418?)
+  *(arXiv, under review)* [PDF](https://arxiv.org/pdf/2505.14418?)
 
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu, Zhuosheng Zhang.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
-  *Proceedings of the Conference on Empirical Methods in Natural Language Processing (arXiv, under review)*
+  (arXiv, under review)*
 
 ---
