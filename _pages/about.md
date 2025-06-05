@@ -57,6 +57,6 @@ Publications
 
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu, Zhuosheng Zhang.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
-  (under review)*
+  *(under review)*
 
 ---
