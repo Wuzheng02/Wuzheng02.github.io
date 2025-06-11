@@ -23,7 +23,7 @@ Experience
 
 Awards & Honors
 ======
-**Best Bachelor Thesis**, 2025 (top 1% in SJTU)
+**Best Bachelor Thesis**, 2025(top 1% in SJTU)
 
 **National Scholarship**, 2022(top 0.2% nationwide)
 
