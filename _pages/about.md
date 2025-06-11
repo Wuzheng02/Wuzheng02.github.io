@@ -47,7 +47,7 @@ Publications
 
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
-  *(under review)* 
+  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.08972)
 
 * Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
