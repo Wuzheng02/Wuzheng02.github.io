@@ -47,6 +47,10 @@ Publications
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
 
+* **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang, Zhuosheng Zhang.
+  *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
+  *(under review)* 
+
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.08972)
@@ -67,7 +71,7 @@ Publications
 
 Tutorials and Contributions
 =====
-Participating: **Dive into LLMs《动手学大模型》Course Series** ![GitHub stars](https://img.shields.io/github/stars/Lordog/dive-into-llms?style=social)
+Participating: **Dive into LLMs《动手学大模型》Course Series** ![GitHub stars](https://img.shields.io/github/stars/Lordog/dive-into-llms?style=social)[![Course Link](https://img.shields.io/badge/Course-Link-blue)](https://github.com/Lordog/dive-into-llms)
 
 
 Participating: **《大模型开发全流程》Course Series** [![Course Link](https://img.shields.io/badge/Course-Link-blue)](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1)
