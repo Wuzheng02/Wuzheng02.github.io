@@ -31,39 +31,41 @@ Awards & Honors
 
 Publications
 ======
-*Equal contribution.
+\* Equal contribution.
+
+\# Corresponding Author.
 
 ---
 
-* **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang.
+* **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Universal Confidence Integration Framework for Adaptive Interaction in Computer-Using Agent*.
   *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, under review)*
 
-* Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang, Gongshen Liu.
+* Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.
   *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*.
   *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Findings of ACL 2025)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465)
 
-* **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang.
+* **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang\#.
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
 
-* **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang, Zhuosheng Zhang.
+* **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
   *(under review)* 
 
-* Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang.
+* Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2506.08972)
 
-* Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu.
+* Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
 
-* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang, Gongshen Liu.
+* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
-* Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu, Zhuosheng Zhang.
+* Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
   *(under review)*
 
