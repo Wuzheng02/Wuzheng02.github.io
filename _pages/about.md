@@ -51,7 +51,7 @@ Publications
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
-  *(under review)* [![Paper](https://img.shields.io/badge/PDF-2505.08645-red))](https://arxiv.org/abs/2508.08645)
+  *(under review)* [![Paper](https://img.shields.io/badge/PDF-2505.08645-red)](https://arxiv.org/abs/2508.08645)
 
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
