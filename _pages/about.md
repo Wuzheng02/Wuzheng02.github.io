@@ -51,7 +51,7 @@ Publications
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
-  *(under review)* [![Paper](https://img.shields.io/badge/PDF-2505.08645-red)](https://arxiv.org/abs/2508.08645)
+  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.08645-red)](https://arxiv.org/abs/2508.08645)
 
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
@@ -77,3 +77,10 @@ Participating: **Dive into LLMs《动手学大模型》Course Series** ![GitHub 
 
 
 Participating: **《大模型开发全流程》Course Series** [![Course Link](https://img.shields.io/badge/Course-Link-blue)](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1)
+
+
+Academic Services
+======
+Reviewer of conferences:
+
+AAAI 2026
