@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am Zheng Wu, a senior undergraduate student at the School of Computer Science, Shanghai Jiao Tong University. I will receive my Bachelor's degree in 2025 and will continue my studies as a Master's student under the supervision of Prof. Zhuosheng Zhang. 
 
 My research interests include natural language processing, (multimodal) large language models, and GUI agents.
@@ -51,7 +52,11 @@ Publications
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
-  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.08645-red)](https://arxiv.org/abs/2508.08645)
+  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
+
+* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
+  *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
+  *The 2025 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2025)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
@@ -60,10 +65,6 @@ Publications
 * Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
-
-* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
-  *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
-  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
