@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Zheng Wu, a senior undergraduate student at the School of Computer Science, Shanghai Jiao Tong University. I will receive my Bachelor's degree in 2025 and will continue my studies as a Master's student under the supervision of Prof. Zhuosheng Zhang. 
+My name is Zheng Wu, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. Zhuosheng Zhang. I received my Bachelor’s degree from the same institution in 2025. I also will continue my academic journey by transitioning into the Ph.D. program advised by Prof. Zhuosheng Zhang.
 
 My research interests include natural language processing, (multimodal) large language models, and GUI agents.
 
