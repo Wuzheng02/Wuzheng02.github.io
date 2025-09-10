@@ -54,6 +54,10 @@ Publications
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
 
+* **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang, Zhuosheng Zhang\#.
+  *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
+  *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
+  
 * Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
   *The 2025 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2025)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
