@@ -54,7 +54,7 @@ Publications
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
 
-* **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang, Zhuosheng Zhang\#.
+* **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
   
@@ -70,6 +70,10 @@ Publications
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
   *(arXiv, under review)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
 
+* Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
+  *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
+  *(arXiv, under review)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
+  
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
   *(under review)*
