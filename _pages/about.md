@@ -64,7 +64,7 @@ Publications
 
 * Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*.
-  *(under review)*
+  *(preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496)
   
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
@@ -84,7 +84,7 @@ Publications
 
 * Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*.
-  *(under review)*
+  *(preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204)
   
 ---
 
