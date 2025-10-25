@@ -48,43 +48,51 @@ Publications
 
 * **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang\#.
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
-  *(preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
-  *(preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
 
 * **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
-  *(preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
-  
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
+
+* Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
+  *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
+  *(**Position Paper**)* [![Paper](https://img.shields.io/badge/PDF-Paper-red)]()
+
+* Ning Li\*, Qiqiang Lin\*, **Zheng Wu**, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou\#, Jun Wang, Weiwen Liu\#, Zhuosheng Zhang\#, Weinan Zhang.
+  *ColorAgent: Building a Robust, Personalized, and Interactive OS Agent*.
+  *(**Technical Report**)* [![Paper](https://img.shields.io/badge/PDF-2510.19386-red)](https://arxiv.org/abs/2510.19386)
+
 * Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
   *The 2025 Conference on Empirical Methods in Natural Language Processing (Findings of **EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
 * Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*.
-  *(preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496)
+  *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496)
   
 * Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.
   *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*.
-  *(preprint)* [![Paper](https://img.shields.io/badge/PDF-2506.08972-red)](https://arxiv.org/pdf/2506.08972)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2506.08972-red)](https://arxiv.org/pdf/2506.08972)
 
 * Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
-  *(preprint)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
 
 * Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
   *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
-  *(preprint)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
+  *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
   
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
-  *(under review)*
+  *(Under Review)*
 
 * Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*.
-  *(preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204)
+  *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204)
   
 ---
 
