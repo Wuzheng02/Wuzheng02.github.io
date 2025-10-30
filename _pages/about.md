@@ -60,7 +60,7 @@ Publications
 
 * Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
   *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
-  *(**Position Paper**)* [![Paper](https://img.shields.io/badge/PDF-Paper-red)]()
+  *(**Position Paper**)* [![Paper](https://img.shields.io/badge/PDF-2510.21566-red)](https://arxiv.org/abs/2510.21566)
 
 * Ning Li\*, Qiqiang Lin\*, **Zheng Wu**, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou\#, Jun Wang, Weiwen Liu\#, Zhuosheng Zhang\#, Weinan Zhang.
   *ColorAgent: Building a Robust, Personalized, and Interactive OS Agent*.
