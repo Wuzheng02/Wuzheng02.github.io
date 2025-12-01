@@ -82,6 +82,11 @@ Publications
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
 
+
+* Zehao Deng, Tianjie Ju,  **Zheng Wu**, Zhuosheng Zhang\#, Gongshen Liu.
+  *Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation*.
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2511.22235-red)](https://arxiv.org/pdf/2511.22235)
+
 * Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
   *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
   *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
