@@ -42,13 +42,13 @@ Publications
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
   *(**AAAI 2026**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
   
-* **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
-  *Universal Confidence Integration Framework for Adaptive Interaction in Computer-Using Agent*.
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI, under review)*
-
 * Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.
   *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*.
-  *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465)
+  *(**ACL 2025**)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465)
+
+* **Zheng Wu**, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
+  *Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning*.
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641)
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
@@ -57,6 +57,10 @@ Publications
 * **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
+
+* **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
+  *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
+  *(TASLP, under review)*
 
 * Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
   *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
@@ -68,7 +72,7 @@ Publications
 
 * Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
-  *The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
+  *(**EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
 * Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*.
