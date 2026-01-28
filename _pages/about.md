@@ -117,4 +117,4 @@ Academic Services
 ======
 Reviewer of conferences:
 
-AAAI 2026, ACL ARR 2026 January Cycle 
+AAAI 2026, ACL ARR 2026 January Cycle, ICML 2026 
