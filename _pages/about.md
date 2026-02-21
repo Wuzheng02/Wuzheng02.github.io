@@ -74,6 +74,14 @@ Publications
   *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
   *(**EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?)
 
+* Zehao Deng, Tianjie Ju,  **Zheng Wu**, Zhuosheng Zhang\#, Gongshen Liu.
+  *Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation*.
+  *(**CVPR 2026**)* [![Paper](https://img.shields.io/badge/PDF-2511.22235-red)](https://arxiv.org/pdf/2511.22235)
+
+* Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
+  *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
+  *(**CVPR 2026**)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
+  
 * Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*.
   *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496)
@@ -85,15 +93,6 @@ Publications
 * Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
   *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401)
-
-
-* Zehao Deng, Tianjie Ju,  **Zheng Wu**, Zhuosheng Zhang\#, Gongshen Liu.
-  *Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation*.
-  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2511.22235-red)](https://arxiv.org/pdf/2511.22235)
-
-* Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
-  *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
-  *(Preprint)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615)
   
 * Lingzhong Dong, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*.
