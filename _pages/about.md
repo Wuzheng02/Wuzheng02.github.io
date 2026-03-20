@@ -12,7 +12,7 @@ My name is **Zheng Wu**, and I am currently a Master’s student at the School o
 
 My research interests include (multimodal) large language models and general agents (especially GUI agents).
 
-欢迎对我的研究方向感兴趣的同学与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
+如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
 Experience
 =====
