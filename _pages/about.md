@@ -123,3 +123,5 @@ AAAI 2026, ACL ARR 2026 January Cycle, ICML 2026
 Reviewer of journals:
 
 IJHCI
+
+<a href="https://info.flagcounter.com/Nc4J"><img src="https://s05.flagcounter.com/mini/Nc4J/bg_F5FFFA/txt_000000/border_78CCCC/flags_0/" alt="Flag Counter" border="0"></a>
