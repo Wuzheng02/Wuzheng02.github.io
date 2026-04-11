@@ -62,7 +62,7 @@ Publications
 
 * **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
-  *(TASLP, under review)*
+  *(TASLP, major revision)*
 
 * Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
   *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
