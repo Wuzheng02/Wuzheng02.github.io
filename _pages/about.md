@@ -42,27 +42,27 @@ Publications
 
 * **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang\#.
   *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*.
-  *(**AAAI 2026**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842)
+  *(**AAAI 2026**)* [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/GEM-OODforGUIagents)
 
 * **Zheng Wu**, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning*.
-  *(**ACL 2026**)* [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641)
+  *(**ACL 2026**)* [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Agent-Dice)
   
 * Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.
   *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*.
-  *(**ACL 2025**)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465)
+  *(**ACL 2025**)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-Kairos)
 
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
-  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/MadeAgents/Quick-on-the-Uptake)
 
 * **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
-  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553)
+  *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/VeriOS)
 
 * **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
   *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
-  *(TASLP, major revision)*
+  *(TASLP, major revision)* [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
 
 * **Zheng Wu**, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Gongshen Liu, Xinghao Jiang, Zhuosheng Zhang\#.
   *OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents*.
@@ -70,7 +70,7 @@ Publications
 
 * Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
   *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
-  *(**Position Paper**)* [![Paper](https://img.shields.io/badge/PDF-2510.21566-red)](https://arxiv.org/abs/2510.21566)
+  *(**Position Paper**)* [![Paper](https://img.shields.io/badge/PDF-2510.21566-red)](https://arxiv.org/abs/2510.21566) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/opas-lab/color-ecosystem)
 
 * Ning Li\*, Qiqiang Lin\*, **Zheng Wu**, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou\#, Jun Wang, Weiwen Liu\#, Zhuosheng Zhang\#, Weinan Zhang.
   *ColorAgent: Building a Robust, Personalized, and Interactive OS Agent*.
