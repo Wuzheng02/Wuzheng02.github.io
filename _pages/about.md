@@ -76,13 +76,18 @@ Publications
   *ColorAgent: Building a Robust, Personalized, and Interactive OS Agent*.
   *(**Technical Report**)* [![Paper](https://img.shields.io/badge/PDF-2510.19386-red)](https://arxiv.org/abs/2510.19386)
 
-* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
-  *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
-  *(**EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/CTZhou-byte/AgentGhost)
+
+* Haowen Hu, Pengzhou Cheng, **Zheng Wu**, Lingzhong Dong, Gongshen Liu, Zhuosheng Zhang\#.
+*Faithful Mobile GUI Agents with Guided Advantage Estimator*/
+*(**ICML 2026**)* [![Paper](https://img.shields.io/badge/PDF-2605.01208-red)](https://arxiv.org/pdf/2605.01208) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Dreamer777hhw/Faithful-Agent)
 
 * Zehao Deng, Tianjie Ju,  **Zheng Wu**, Zhuosheng Zhang\#, Gongshen Liu.
   *Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation*.
   *(**CVPR 2026**)* [![Paper](https://img.shields.io/badge/PDF-2511.22235-red)](https://arxiv.org/pdf/2511.22235) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/hehehahi4/CES)
+
+* Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.
+  *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*.
+  *(**EMNLP 2025**)* [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/CTZhou-byte/AgentGhost)
 
 * Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
   *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
