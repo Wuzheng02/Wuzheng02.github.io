@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 
 My name is **Zheng Wu**, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. **Zhuosheng Zhang**. I received my Bachelor’s degree from the same institution in 2025. I also will continue my academic journey by transitioning into the Ph.D. program advised by Prof. Zhuosheng Zhang.
 
@@ -92,6 +83,10 @@ Publications
 * Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.
   *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*.
   *(**CVPR 2026**)*[![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZrW00/StaR)
+
+* Yanyu CHEN, Jiyue Jiang, Dianzhi Yu, **Zheng Wu**, Jiahong Liu, Jiaming Han, Xiao GUO, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King\#.
+*LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition*.
+*(**KDD 2026**)*
 
 * Zehao Deng*, Tianjie Ju*, **Zheng Wu**, Liangbo He, jun lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#.
   *Causal Probing for Internal Visual Representations in Multimodal Large Language Models*.
