@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 
 My name is **Zheng Wu**, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. **Zhuosheng Zhang**. I received my Bachelor’s degree from the same institution in 2025. I also will continue my academic journey by transitioning into the Ph.D. program advised by Prof. Zhuosheng Zhang.
 
