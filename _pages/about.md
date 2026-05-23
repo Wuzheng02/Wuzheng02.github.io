@@ -47,6 +47,10 @@ Publications
 * **Zheng Wu**, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning*.
   *(**ACL 2026**)* [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Agent-Dice)
+
+* **Zheng Wu\***, Pengzhou Cheng\*\#, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang\#.
+  *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
+  *(**TASLP**)* [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
   
 * Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.
   *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*.
@@ -59,10 +63,6 @@ Publications
 * **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/VeriOS)
-
-* **Zheng Wu\***, Pengzhou Cheng\*, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu\#, Zhuosheng Zhang\#.
-  *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
-  *(TASLP, major revision)* [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
 
 * **Zheng Wu**, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Gongshen Liu, Xinghao Jiang, Zhuosheng Zhang\#.
   *OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents*.
