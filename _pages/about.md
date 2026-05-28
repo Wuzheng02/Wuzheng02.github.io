@@ -99,7 +99,7 @@ Publications
 
 * Yanyu CHEN, Jiyue Jiang, Dianzhi Yu, **Zheng Wu**, Jiahong Liu, Jiaming Han, Xiao GUO, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King\#.
 *LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition*.
-*(**KDD 2026**)*
+*(**KDD 2026**)* [![Paper](https://img.shields.io/badge/PDF-2605.24005-red)](https://arxiv.org/pdf/2605.24005) 
 
 * Zehao Deng*, Tianjie Ju*, **Zheng Wu**, Liangbo He, jun lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#.
   *Causal Probing for Internal Visual Representations in Multimodal Large Language Models*.
