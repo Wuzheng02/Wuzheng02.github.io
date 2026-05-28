@@ -50,12 +50,20 @@ Publications
 
 * **Zheng Wu\***, Pengzhou Cheng\*\#, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang\#.
   *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*.
-  *(**TASLP**)* [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
+  *(**TASLP**)* [![Paper](https://img.shields.io/badge/PDF-2605.28629-red)](https://arxiv.org/abs/2605.28629) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
   
 * Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.
   *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*.
   *(**ACL 2025**)* [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-Kairos)
 
+* **Zheng Wu**, Chengcheng Han, Zhengxi Lu, Tianjie ju, Yanyu Chen, Qi Gu\#, Xunliang Cai, Zhuosheng Zhang\#.
+  *GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection*.
+ *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2605.28534-red)](https://arxiv.org/abs/2605.28534) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/GUI-CIDER)
+
+* **Zheng Wu**, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Gongshen Liu, Xinghao Jiang, Zhuosheng Zhang\#.
+  *OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents*.
+ *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2604.24348-red)](https://arxiv.org/abs/2604.24348) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-SPEAR)
+  
 * **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.
   *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/MadeAgents/Quick-on-the-Uptake)
@@ -63,10 +71,6 @@ Publications
 * **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.
   *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*.
   *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/VeriOS)
-
-* **Zheng Wu**, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Gongshen Liu, Xinghao Jiang, Zhuosheng Zhang\#.
-  *OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents*.
- *(Preprint)* [![Paper](https://img.shields.io/badge/PDF-2604.24348-red)](https://arxiv.org/abs/2604.24348) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-SPEAR)
 
 * Fangwen Wu\*, **Zheng Wu**\*, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.
   *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*.
