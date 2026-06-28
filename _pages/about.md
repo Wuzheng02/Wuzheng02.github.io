@@ -119,11 +119,15 @@ Preprint [![Paper](https://img.shields.io/badge/PDF-2506.08972-red)](https://arx
 Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZrW00/GUIPivot)
 
-[21] *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*  
+[21] *Communication Policy Evolution for Proactive LLM Agents*
+Xinbei Ma, Jiyang Qiu, Yao Yao, **Zheng Wu**, Yijie Lu, Xiangmou Qu, Jiaxin Yin, Xingyu Lou\#, Jun Wang\#, Weiwen Liu, Weinan Zhang, Zhuosheng Zhang\#, Hai Zhao\#
+Preprint [![Paper](https://img.shields.io/badge/PDF-2606.14314-red)](https://arxiv.org/pdf/2606.14314) [![Code](https://img.shields.io/badge/Code-GitHub-black)]()
+
+[22] *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*  
 Lingzhong Dong, Ziqi Zhou, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
 **KSEM 2026**
 
-[22] *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*  
+[23] *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*  
 Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
 
