@@ -48,7 +48,7 @@ Publications
 **ACL 2026** [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Agent-Dice)
 
 [3] *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*  
-**Zheng Wu\***, Pengzhou Cheng\*\#, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang\#.  
+**Zheng Wu**, Pengzhou Cheng, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang\#.  
 **TASLP** [![Paper](https://img.shields.io/badge/PDF-2605.28629-red)](https://arxiv.org/abs/2605.28629) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
 
 [4] *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*  
