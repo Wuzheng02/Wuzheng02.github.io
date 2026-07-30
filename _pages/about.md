@@ -99,35 +99,40 @@ Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Ling
 Yanyu Chen, Jiyue Jiang, Dianzhi Yu, **Zheng Wu**, Jiahong Liu, Jiaming Han, Xiao Guo, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King\#.  
 **KDD 2026** [![Paper](https://img.shields.io/badge/PDF-2605.24005-red)](https://arxiv.org/pdf/2605.24005)
 
-[16] *MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft*  
+[16] *Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses and Evaluation*  
+Xinjie Lai, Weihao Zuo, **Zheng Wu**, Tianjie Ju, Haodong Zhao, Xiaofeng Zhang, Zhuosheng Zhang, Gongshen Liu, Xinpeng Zhang, Pengzhou Cheng\#.
+**Survey** [![Paper](https://img.shields.io/badge/PDF-Survey-red)](https://www.researchgate.net/publication/410588217_Behavior_Safety_of_Autonomous_Interactive_Agents_Risks_Attacks_Defenses_and_Evaluation) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents/tree/main)
+
+[17] *MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft*  
 Tianjie Ju, Yueqing Sun, **Zheng Wu**, Wei Zhang, Yaqi Huo, Xi Su, Qi Gu\#, Xunliang Cai, Gongshen Liu, Zhuosheng Zhang\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2605.30931-red)](https://arxiv.org/pdf/2605.30931) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Jometeorie/MineExplorer)
 
-[17] *Causal Probing for Internal Visual Representations in Multimodal Large Language Models*  
+
+[18] *Causal Probing for Internal Visual Representations in Multimodal Large Language Models*  
 Zehao Deng\*, Tianjie Ju\*, **Zheng Wu**, Liangbo He, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2605.05593-red)](https://arxiv.org/pdf/2605.05593) [![Code](https://img.shields.io/badge/Code-GitHub-black)]()
 
-[18] *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*  
+[19] *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*  
 Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/CTZhou-byte/Agent_ScanKit)
 
-[19] *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*  
+[20] *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*  
 Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2506.08972-red)](https://arxiv.org/pdf/2506.08972) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/StarWalkin/UI-NEXUS)
 
-[20] *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*  
+[21] *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*  
 Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZrW00/GUIPivot)
 
-[21] *Communication Policy Evolution for Proactive LLM Agents*
-Xinbei Ma, Jiyang Qiu, Yao Yao, **Zheng Wu**, Yijie Lu, Xiangmou Qu, Jiaxin Yin, Xingyu Lou\#, Jun Wang\#, Weiwen Liu, Weinan Zhang, Zhuosheng Zhang\#, Hai Zhao\#
+[22] *Communication Policy Evolution for Proactive LLM Agents*
+Xinbei Ma, Jiyang Qiu, Yao Yao, **Zheng Wu**, Yijie Lu, Xiangmou Qu, Jiaxin Yin, Xingyu Lou\#, Jun Wang\#, Weiwen Liu, Weinan Zhang, Zhuosheng Zhang\#, Hai Zhao\#.
 Preprint [![Paper](https://img.shields.io/badge/PDF-2606.14314-red)](https://arxiv.org/pdf/2606.14314) [![Code](https://img.shields.io/badge/Code-GitHub-black)]()
 
-[22] *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*  
+[23] *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*  
 Lingzhong Dong, Ziqi Zhou, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
-**KSEM 2026**
+**KSEM 2026** [![Paper](https://img.shields.io/badge/PDF-KESM2026-red)](https://link.springer.com/chapter/10.1007/978-981-92-2856-0_34)
 
-[23] *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*  
+[24] *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*  
 Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
 Preprint [![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
 
