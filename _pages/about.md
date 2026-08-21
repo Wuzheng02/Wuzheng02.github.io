@@ -37,118 +37,113 @@ Publications
 \* Equal contribution.  
 \# Corresponding Author.
 
----
-
-[1] *GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents*  
+**[1] GEM: Gaussian Embedding Modeling for Out-of-Distribution Detection for GUI Agents**  
 **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Zhuosheng Zhang\#.  
-**AAAI 2026** [![Paper](https://img.shields.io/badge/PDF-2505.12842-red)](https://arxiv.org/pdf/2505.12842) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/GEM-OODforGUIagents)
+**AAAI 2026** · [Paper](https://arxiv.org/pdf/2505.12842) · [Code](https://github.com/Wuzheng02/GEM-OODforGUIagents)
 
-[2] *Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning*  
+**[2] Agent-Dice: Disentangling Knowledge Updates via Geometric Consensus for Agent Continual Learning**  
 **Zheng Wu**, Xingyu Lou, Xinbei Ma, Yansi Li, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.  
-**ACL 2026** [![Paper](https://img.shields.io/badge/PDF-2601.03641-red)](https://arxiv.org/abs/2601.03641) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Agent-Dice)
+**ACL 2026** · [Paper](https://arxiv.org/abs/2601.03641) · [Code](https://github.com/Wuzheng02/Agent-Dice)
 
-[3] *Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents*  
+**[3] Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents**  
 **Zheng Wu**, Pengzhou Cheng, Zongru Wu, Yuan Guo, Tianjie Ju, Aston Zhang, Gongshen Liu, Zhuosheng Zhang\#.  
-**TASLP** [![Paper](https://img.shields.io/badge/PDF-2605.28629-red)](https://arxiv.org/abs/2605.28629) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/Mobile-Aptus)
+**TASLP** · [Paper](https://arxiv.org/abs/2605.28629) · [Code](https://github.com/Wuzheng02/Mobile-Aptus)
 
-[4] *OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents*  
+**[4] OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents**  
 Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gongshen Liu\#.  
-**ACL 2025** [![Paper](https://img.shields.io/badge/PDF-2503.16465-red)](https://arxiv.org/pdf/2503.16465) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-Kairos)
+**ACL 2025** · [Paper](https://arxiv.org/pdf/2503.16465) · [Code](https://github.com/Wuzheng02/OS-Kairos)
 
-[5] *Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning*  
+**[5] Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning**  
 **Zheng Wu**, Chenhao Xue, Shijie Zheng, Yijie Lu, Cheng Yang, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2607.28478-red)](https://arxiv.org/abs/2607.28478) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/SaliTrap)
+**Preprint** · [Paper](https://arxiv.org/abs/2607.28478) · [Code](https://github.com/Wuzheng02/SaliTrap)
 
-[6] *Beyond a Single Judge: Simulating Social Persona Panels for Generative UI Evaluation*  
+**[6] Beyond a Single Judge: Simulating Social Persona Panels for Generative UI Evaluation**  
 **Zheng Wu**, Yibo Luo, Pu Zhang, Cheng Yang, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2607.28439-red)](https://arxiv.org/abs/2607.28439) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/ESPP)
+**Preprint** · [Paper](https://arxiv.org/abs/2607.28439) · [Code](https://github.com/Wuzheng02/ESPP)
 
-[7] *GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection*  
+**[7] GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection**  
 **Zheng Wu**, Chengcheng Han, Zhengxi Lu, Tianjie Ju, Yanyu Chen, Qi Gu\#, Xunliang Cai, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2605.28534-red)](https://arxiv.org/abs/2605.28534) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/GUI-CIDER)
+**Preprint** · [Paper](https://arxiv.org/abs/2605.28534) · [Code](https://github.com/Wuzheng02/GUI-CIDER)
 
-[8] *OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents*  
+**[8] OS-SPEAR: A Toolkit for the Safety, Performance, Efficiency, and Robustness Analysis of OS Agents**  
 **Zheng Wu**, Yi Hua, Zhaoyuan Huang, Chenhao Xue, Yijie Lu, Pengzhou Cheng, Zongru Wu, Lingzhong Dong, Gongshen Liu, Xinghao Jiang, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2604.24348-red)](https://arxiv.org/abs/2604.24348) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/OS-SPEAR)
+**Preprint** · [Paper](https://arxiv.org/abs/2604.24348) · [Code](https://github.com/Wuzheng02/OS-SPEAR)
 
-[9] *Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents*  
+**[9] Quick on the Uptake: Eliciting Implicit Intents from Human Demonstrations for Personalized Mobile-Use Agents**  
 **Zheng Wu**, Heyuan Huang, Yanjia Yang, Yuanyi Song, Xingyu Lou, Weiwen Liu, Weinan Zhang, Jun Wang\#, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2508.08645-red)](https://arxiv.org/abs/2508.08645) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/MadeAgents/Quick-on-the-Uptake)
+**Preprint** · [Paper](https://arxiv.org/abs/2508.08645) · [Code](https://github.com/MadeAgents/Quick-on-the-Uptake)
 
-[10] *VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents*  
+**[10] VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents**  
 **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2509.07553-red)](https://arxiv.org/abs/2509.07553) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Wuzheng02/VeriOS)
+**Preprint** · [Paper](https://arxiv.org/abs/2509.07553) · [Code](https://github.com/Wuzheng02/VeriOS)
 
-[11] *ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem*  
+**[11] ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in Massive-agent Ecosystem**  
 Fangwen Wu\*, **Zheng Wu\***, Jihong Wang, Yunku Chen, Ruiguang Pei, Heyuan Huang, Xin Liao, Xingyu Lou, Huarong Deng, Zhihui Fu, Weiwen Liu, Zhuosheng Zhang, Weinan Zhang, Jun Wang\#.  
-**Position Paper** [![Paper](https://img.shields.io/badge/PDF-2510.21566-red)](https://arxiv.org/abs/2510.21566) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/opas-lab/color-ecosystem)
+**Position Paper** · [Paper](https://arxiv.org/abs/2510.21566) · [Code](https://github.com/opas-lab/color-ecosystem)
 
-[12] *ColorAgent: Building a Robust, Personalized, and Interactive OS Agent*  
+**[12] ColorAgent: Building a Robust, Personalized, and Interactive OS Agent**  
 Ning Li\*, Qiqiang Lin\*, **Zheng Wu**, Xiaoyun Mo, Weiming Zhang, Yin Zhao, Xiangmou Qu, Jiamu Zhou, Jun Wang, Congmin Zheng, Yuanyi Song, Hongjiang Chen, Heyuan Huang, Jihong Wang, Jiaxin Yin, Jingwei Yu, Junwei Liao, Qiuying Peng, Xingyu Lou\#, Jun Wang, Weiwen Liu\#, Zhuosheng Zhang\#, Weinan Zhang.  
-**Technical Report** [![Paper](https://img.shields.io/badge/PDF-2510.19386-red)](https://arxiv.org/abs/2510.19386)
+**Technical Report** · [Paper](https://arxiv.org/abs/2510.19386)
 
-[13] *Faithful Mobile GUI Agents with Guided Advantage Estimator*  
+**[13] Faithful Mobile GUI Agents with Guided Advantage Estimator**  
 Haowen Hu\*, Pengzhou Cheng\*, **Zheng Wu**, Lingzhong Dong, Gongshen Liu\#, Zhuosheng Zhang\#.  
-**ICML 2026** [![Paper](https://img.shields.io/badge/PDF-2605.01208-red)](https://arxiv.org/pdf/2605.01208) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Dreamer777hhw/Faithful-Agent)
+**ICML 2026** · [Paper](https://arxiv.org/pdf/2605.01208) · [Code](https://github.com/Dreamer777hhw/Faithful-Agent)
 
-[14] *Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation*  
+**[14] Training High-Level Schedulers with Execution-Feedback Reinforcement Learning for Long-Horizon GUI Automation**  
 Zehao Deng, Tianjie Ju, **Zheng Wu**, Zhuosheng Zhang\#, Gongshen Liu.  
-**CVPR 2026** [![Paper](https://img.shields.io/badge/PDF-2511.22235-red)](https://arxiv.org/pdf/2511.22235) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/hehehahi4/CES)
+**CVPR 2026** · [Paper](https://arxiv.org/pdf/2511.22235) · [Code](https://github.com/hehehahi4/CES)
 
-[15] *Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents*  
+**[15] Hidden Ghost Hand: Unveiling Backdoor Vulnerabilities in MLLM-powered Mobile GUI Agents**  
 Pengzhou Cheng, Haowen Hu, **Zheng Wu**, Zongru Wu, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.  
-**EMNLP 2025** [![Paper](https://img.shields.io/badge/PDF-2505.14418-red)](https://arxiv.org/pdf/2505.14418?) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/CTZhou-byte/AgentGhost)
+**EMNLP 2025** · [Paper](https://arxiv.org/pdf/2505.14418) · [Code](https://github.com/CTZhou-byte/AgentGhost)
 
-[16] *See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles*  
+**[16] See, Think, Act: Teaching Multimodal Agents to Effectively Interact with GUI by Identifying Toggles**  
 Zongru Wu, Rui Mao, Zhiyuan Tian, Pengzhou Cheng, Tianjie Ju, **Zheng Wu**, Lingzhong Dong, Haiyue Sheng, Zhuosheng Zhang\#, Gongshen Liu\#.  
-**CVPR 2026** [![Paper](https://img.shields.io/badge/PDF-2509.13615-red)](https://arxiv.org/pdf/2509.13615) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZrW00/StaR)
+**CVPR 2026** · [Paper](https://arxiv.org/pdf/2509.13615) · [Code](https://github.com/ZrW00/StaR)
 
-[17] *LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition*  
+**[17] LC-ERD: Mining Latent Logic for Self-Evolving Reasoning via Consistency-Regulated Reward Decomposition**  
 Yanyu Chen, Jiyue Jiang, Dianzhi Yu, **Zheng Wu**, Jiahong Liu, Jiaming Han, Xiao Guo, Jinhu Qi, Yu Li, Yifei Zhang, Irwin King\#.  
-**KDD 2026** [![Paper](https://img.shields.io/badge/PDF-2605.24005-red)](https://arxiv.org/pdf/2605.24005)
+**KDD 2026** · [Paper](https://arxiv.org/pdf/2605.24005)
 
-[18] *Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses and Evaluation*  
-Xinjie Lai, Weihao Zuo, **Zheng Wu**, Tianjie Ju, Haodong Zhao, Xiaofeng Zhang, Zhuosheng Zhang, Gongshen Liu, Xinpeng Zhang, Pengzhou Cheng\#.
-**Survey** [![Paper](https://img.shields.io/badge/PDF-Survey-red)](https://www.researchgate.net/publication/410588217_Behavior_Safety_of_Autonomous_Interactive_Agents_Risks_Attacks_Defenses_and_Evaluation) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents/tree/main)
+**[18] Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses and Evaluation**  
+Xinjie Lai, Weihao Zuo, **Zheng Wu**, Tianjie Ju, Haodong Zhao, Xiaofeng Zhang, Zhuosheng Zhang, Gongshen Liu, Xinpeng Zhang, Pengzhou Cheng\#.  
+**Survey** · [Paper](https://www.researchgate.net/publication/410588217_Behavior_Safety_of_Autonomous_Interactive_Agents_Risks_Attacks_Defenses_and_Evaluation) · [Code](https://github.com/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents/tree/main)
 
-[19] *MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft*  
+**[19] MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft**  
 Tianjie Ju, Yueqing Sun, **Zheng Wu**, Wei Zhang, Yaqi Huo, Xi Su, Qi Gu\#, Xunliang Cai, Gongshen Liu, Zhuosheng Zhang\#.  
-**EMNLP 2026** [![Paper](https://img.shields.io/badge/PDF-2605.30931-red)](https://arxiv.org/pdf/2605.30931) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Jometeorie/MineExplorer)
+**EMNLP 2026** · [Paper](https://arxiv.org/pdf/2605.30931) · [Code](https://github.com/Jometeorie/MineExplorer)
 
-
-[20] *Causal Probing for Internal Visual Representations in Multimodal Large Language Models*  
+**[20] Causal Probing for Internal Visual Representations in Multimodal Large Language Models**  
 Zehao Deng\*, Tianjie Ju\*, **Zheng Wu**, Liangbo He, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#.  
-**EMNLP 2026** [![Paper](https://img.shields.io/badge/PDF-2605.05593-red)](https://arxiv.org/pdf/2605.05593) [![Code](https://img.shields.io/badge/Code-GitHub-black)]()
+**EMNLP 2026** · [Paper](https://arxiv.org/pdf/2605.05593)
 
+**[21] Communication Policy Evolution for Proactive LLM Agents**  
+Xinbei Ma, Jiyang Qiu, Yao Yao, **Zheng Wu**, Yijie Lu, Xiangmou Qu, Jiaxin Yin, Xingyu Lou\#, Jun Wang\#, Weiwen Liu, Weinan Zhang, Zhuosheng Zhang\#, Hai Zhao\#.  
+**EMNLP 2026** · [Paper](https://arxiv.org/pdf/2606.14314)
 
-[21] *Communication Policy Evolution for Proactive LLM Agents*
-Xinbei Ma, Jiyang Qiu, Yao Yao, **Zheng Wu**, Yijie Lu, Xiangmou Qu, Jiaxin Yin, Xingyu Lou\#, Jun Wang\#, Weiwen Liu, Weinan Zhang, Zhuosheng Zhang\#, Hai Zhao\#.
-**EMNLP 2026** [![Paper](https://img.shields.io/badge/PDF-2606.14314-red)](https://arxiv.org/pdf/2606.14314) [![Code](https://img.shields.io/badge/Code-GitHub-black)]()
+**[22] Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents**  
+Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, **Zheng Wu**, Yansi Li, Chuanbiao Song, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#.  
+**EMNLP 2026**
 
-[22] *Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents*
-Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, **Zheng Wu**, Yansi Li, Chuanbiao Song, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang\#
-**EMNLP 2026** 
-
-[23] *Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations*  
+**[23] Agent-ScanKit: Unraveling Memory and Reasoning of MLLM-Based Agents via Sensitivity Perturbations**  
 Pengzhou Cheng, Lingzhong Dong, **Zheng Wu**, Zongru Wu, Xiangru Tang, Chengwei Qin, Zhuosheng Zhang\#, Gongshen Liu\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2510.00496-red)](https://arxiv.org/pdf/2510.00496) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/CTZhou-byte/Agent_ScanKit)
+**Preprint** · [Paper](https://arxiv.org/pdf/2510.00496) · [Code](https://github.com/CTZhou-byte/Agent_ScanKit)
 
-[24] *Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling*  
+**[24] Atomic-to-Compositional Generalization for Mobile Agents with Systematic Scheduling**  
 Yuan Guo, Tingjia Miao, **Zheng Wu**, Pengzhou Cheng, Ming Zhou, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2506.08972-red)](https://arxiv.org/pdf/2506.08972) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/StarWalkin/UI-NEXUS)
+**Preprint** · [Paper](https://arxiv.org/pdf/2506.08972) · [Code](https://github.com/StarWalkin/UI-NEXUS)
 
-[25] *Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks*  
+**[25] Smoothing Grounding and Reasoning for MLLM-Powered GUI Agents with Query-Oriented Pivot Tasks**  
 Zongru Wu, Pengzhou Cheng, **Zheng Wu**, Tianjie Ju, Zhuosheng Zhang\#, Gongshen Liu\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2503.00401-red)](https://arxiv.org/pdf/2503.00401) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/ZrW00/GUIPivot)
+**Preprint** · [Paper](https://arxiv.org/pdf/2503.00401) · [Code](https://github.com/ZrW00/GUIPivot)
 
-[26] *Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure*  
+**[26] Domain Adaptation of MLLM-based Computer-Using Agents with Standard Operating Procedure**  
 Lingzhong Dong, Ziqi Zhou, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
-**KSEM 2026** [![Paper](https://img.shields.io/badge/PDF-KESM2026-red)](https://link.springer.com/chapter/10.1007/978-981-92-2856-0_34)
+**KSEM 2026** · [Paper](https://link.springer.com/chapter/10.1007/978-981-92-2856-0_34)
 
-[27] *Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents*  
+**[27] Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents**  
 Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
-Preprint [![Paper](https://img.shields.io/badge/PDF-2510.02204-red)](https://arxiv.org/pdf/2510.02204) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
-
+**Preprint** · [Paper](https://arxiv.org/pdf/2510.02204) · [Code](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
 ---
 
 Tutorials and Contributions
