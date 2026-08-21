@@ -144,6 +144,7 @@ Lingzhong Dong, Ziqi Zhou, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu
 **[27] Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents**  
 Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu, **Zheng Wu**, Gongshen Liu\#, Zhuosheng Zhang\#.  
 **Preprint** · [Paper](https://arxiv.org/pdf/2510.02204) · [Code](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
+
 ---
 
 Tutorials and Contributions
