@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-My name is **Zheng Wu**, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. **Zhuosheng Zhang**. I received my Bachelor’s degree from the same institution in 2025. I also will continue my academic journey by transitioning into the Ph.D. program advised by Prof. Zhuosheng Zhang.
+My name is **Zheng Wu**, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. **Zhuosheng Zhang**. I received my Bachelor’s degree from the same institution in 2025. 
+
+**Actively seeking PhD opportunities in Hong Kong for Fall 2028 — referrals are greatly appreciated!**
 
 My research interests include (multimodal) large language models and general agents (especially GUI agents).
 
