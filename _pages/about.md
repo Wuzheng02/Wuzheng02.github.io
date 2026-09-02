@@ -10,8 +10,6 @@ redirect_from:
 
 My name is **Zheng Wu**, and I am currently a Master’s student at the School of Computer Science, Shanghai Jiao Tong University, under the supervision of Prof. **Zhuosheng Zhang**. I received my Bachelor’s degree from the same institution in 2025. 
 
-**Actively seeking PhD opportunities in Hong Kong for Fall 2028 — referrals are greatly appreciated!**
-
 My research interests include (multimodal) large language models and general agents (especially GUI agents).
 
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
