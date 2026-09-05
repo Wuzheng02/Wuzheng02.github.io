@@ -77,7 +77,7 @@ Pengzhou Cheng\*, **Zheng Wu\***, Zongru Wu, Aston Zhang, Zhuosheng Zhang\#, Gon
 **Zheng Wu**, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiwen Liu, Weinan Zhang, Jun Wang, Zhaoxiang Wang\#, Zhuosheng Zhang\#.  
 **Preprint** · [Paper](https://arxiv.org/abs/2509.07553) · [Code](https://github.com/Wuzheng02/VeriOS)
 
-**[11] From Local Perception to Spatial Agency in a Real-Scale City**  
+**[11] UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City**  
 Tianjie Ju, **Zheng Wu**, Yueqing Sun, Yuhan Cui, Bobo Li, Shengqiong Wu, Pengzhou Cheng, Haodong Zhao, Zongru Wu, Xinbei Ma, Doris Zhang, Kunling Li, Mong-Li Lee, Wynne Hsu, Hao Fei\#, Qi Gu\#, Gongshen Liu\#, Zhuosheng Zhang\#.  
 **Preprint** · [Paper](https://arxiv.org/abs/2608.27456) · [Code](https://github.com/UrbanGround/UrbanGround) · [APP](https://github.com/UrbanGround/UrbanGround/releases) · 🏆 [**#3 Paper of the Day**](https://huggingface.co/papers/date/2026-08-28)
 
