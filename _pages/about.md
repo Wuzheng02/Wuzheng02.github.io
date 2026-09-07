@@ -14,7 +14,9 @@ My research interests include (multimodal) large language models, agent post-tra
 
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
-**Actively seeking PhD opportunities in Hong Kong or Mainland China for Fall 2028 — recommendations are greatly appreciated!**
+Actively seeking PhD opportunities for 2028 admission, as well as full-time roles related to foundation models (expected graduation: March 2028). Recommendations for suitable opportunities are greatly appreciated!
+
+正在积极寻找 2028 年入学的博士机会，以及基模相关的就业机会（预计 2028 年 3 月毕业）。如有合适的岗位，欢迎推荐！
 
 Experience
 =====
