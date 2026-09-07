@@ -14,6 +14,8 @@ My research interests include (multimodal) large language models, agent post-tra
 
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
+**Actively seeking PhD opportunities in Hong Kong or Mainland China for Fall 2028 — recommendations are greatly appreciated!**
+
 Experience
 =====
 **B.Eng. in School of Computer Science, Shanghai Jiao Tong University**  
