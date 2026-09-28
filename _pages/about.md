@@ -26,6 +26,8 @@ Experience
 
 Awards & Honors
 ======
+**National Scholarship**, 2026 (top 0.2% nationwide)
+
 **Best Bachelor Thesis**, 2025 (top 1% in SJTU)
 
 **National Scholarship**, 2024 (top 0.2% nationwide)
