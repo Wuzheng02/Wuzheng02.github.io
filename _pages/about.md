@@ -16,7 +16,7 @@ My research interests include (multimodal) large language models, agent
 post-training and agent evaluation.
 
 I am currently a **Qingyun Plan Intern** with the
-**[WeLM](https://welm.weixin.qq.com/)** Foundation Model Team at Tencent
+**WeLM** Foundation Model Team at Tencent
 WXG.
 
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng
