@@ -14,7 +14,7 @@ My name is **Zheng Wu**, and I am currently a Master’s student at the School o
 
 My research interests include (multimodal) large language models, agent post-training and agent evaluation.
 
-I am currently a **Qingyun Program Intern** with the **[WeLM](https://welm.weixin.qq.com/)** Foundation Model Team at Tencent WXG.
+I am currently a **Qingyun Plan Intern** with the **[WeLM](https://welm.weixin.qq.com/)** Foundation Model Team at Tencent WXG.
 
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
@@ -30,7 +30,7 @@ I am currently a **Qingyun Program Intern** with the **[WeLM](https://welm.weixi
 
 # Internship
 
-**Qingyun Program Intern, WeLM Foundation Model Team, Tencent WXG** <small>Oct. 2026 – Present</small>
+**Qingyun Plan Intern, WeLM Foundation Model Team, Tencent WXG** <small>Oct. 2026 – Present</small>
 
 **General Agent Team, LongCat, Meituan** <small>Jan. 2026 – Sept. 2026</small>
 
