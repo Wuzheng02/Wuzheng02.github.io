@@ -211,50 +211,49 @@
   }
 
   .publication-list {
-    display: grid;
-    gap: .65rem;
-    margin: .8rem 0 2rem;
+    margin: .65rem 0 2.2rem;
   }
 
   .publication-item {
-    padding: .85rem 1rem;
-    border: 1px solid #e5eaf1;
-    border-left: 3px solid #7d9bc4;
-    border-radius: 7px;
-    background: #fff;
-    box-shadow: 0 2px 7px rgba(31, 50, 79, .035);
+    padding: 1rem .15rem 1.05rem;
+    border-bottom: 1px solid #e8edf3;
+
+    &:first-child { border-top: 1px solid #e8edf3; }
   }
 
   .publication-title {
-    margin: 0 0 .35rem;
-    color: #233853;
-    font-size: 1em;
-    font-weight: 650;
-    line-height: 1.5;
+    margin: 0 0 .38rem;
+    color: #203b5d;
+    font-size: 1.04em;
+    font-weight: 700;
+    line-height: 1.48;
   }
 
   .publication-authors {
-    margin: 0 0 .55rem;
-    color: #667386;
-    font-size: .88em;
-    line-height: 1.55;
+    margin: 0 0 .62rem;
+    color: #697789;
+    font-size: .9em;
+    line-height: 1.6;
+
+    strong { color: #394f6c; }
   }
 
   .publication-meta {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: .45rem;
+    gap: .5rem;
   }
 
   .publication-venue {
-    padding: .12rem .5rem;
-    border-radius: 999px;
-    background: #eff5fc;
-    color: #355d8b;
-    font-size: .76em;
+    padding: .18rem .62rem;
+    border: 1px solid #dce7f3;
+    border-radius: 5px;
+    background: #f4f8fc;
+    color: #355b83;
+    font-size: .78em;
     font-weight: 700;
-    line-height: 1.5;
+    line-height: 1.35;
   }
 
   .publication-extra {
@@ -264,29 +263,31 @@
 
   .publication-links {
     display: inline-flex;
-    gap: .35rem;
-    margin-left: auto;
+    align-items: center;
+    gap: .38rem;
   }
 
   .publication-link {
     display: inline-grid;
-    width: 1.9rem;
-    height: 1.9rem;
+    width: 2rem;
+    height: 2rem;
     place-items: center;
-    border: 1px solid #e1e8f0;
-    border-radius: 50%;
-    background: #fff;
-    color: #456b98;
-    font-size: .9em;
+    border: 1px solid #e3eaf2;
+    border-radius: 6px;
+    background: #f8fafc;
+    color: #46698f;
     text-decoration: none;
-    transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+    transition: background-color .15s ease, color .15s ease, border-color .15s ease, transform .15s ease;
 
     &:hover, &:focus-visible {
       border-color: #456b98;
       background: #456b98;
       color: #fff;
       text-decoration: none;
+      transform: translateY(-1px);
     }
+
+    svg { width: 1rem; height: 1rem; fill: currentColor; }
   }
 
   .brand-tencent { color: #2878d0; }
