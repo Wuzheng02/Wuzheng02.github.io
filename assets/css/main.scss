@@ -190,6 +190,105 @@
     letter-spacing: .015em;
   }
 
+  .experience-logo {
+    display: inline-block;
+    width: auto;
+    max-width: 120px;
+    height: 27px;
+    object-fit: contain;
+    vertical-align: middle;
+  }
+
+  .logo-tencent { max-width: 92px; }
+  .logo-weixin, .logo-oppo { max-width: 30px; height: 30px; }
+  .logo-meituan { max-width: 112px; }
+  .logo-longcat { max-width: 92px; }
+
+  .publication-note {
+    margin: -.25rem 0 .85rem;
+    color: #7b8798;
+    font-size: .82em;
+  }
+
+  .publication-list {
+    display: grid;
+    gap: .65rem;
+    margin: .8rem 0 2rem;
+  }
+
+  .publication-item {
+    padding: .85rem 1rem;
+    border: 1px solid #e5eaf1;
+    border-left: 3px solid #7d9bc4;
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0 2px 7px rgba(31, 50, 79, .035);
+  }
+
+  .publication-title {
+    margin: 0 0 .35rem;
+    color: #233853;
+    font-size: 1em;
+    font-weight: 650;
+    line-height: 1.5;
+  }
+
+  .publication-authors {
+    margin: 0 0 .55rem;
+    color: #667386;
+    font-size: .88em;
+    line-height: 1.55;
+  }
+
+  .publication-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .45rem;
+  }
+
+  .publication-venue {
+    padding: .12rem .5rem;
+    border-radius: 999px;
+    background: #eff5fc;
+    color: #355d8b;
+    font-size: .76em;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+
+  .publication-extra {
+    color: #987021;
+    font-size: .78em;
+  }
+
+  .publication-links {
+    display: inline-flex;
+    gap: .35rem;
+    margin-left: auto;
+  }
+
+  .publication-link {
+    display: inline-grid;
+    width: 1.9rem;
+    height: 1.9rem;
+    place-items: center;
+    border: 1px solid #e1e8f0;
+    border-radius: 50%;
+    background: #fff;
+    color: #456b98;
+    font-size: .9em;
+    text-decoration: none;
+    transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+
+    &:hover, &:focus-visible {
+      border-color: #456b98;
+      background: #456b98;
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
   .brand-tencent { color: #2878d0; }
   .brand-weixin { color: #20a66a; }
   .brand-qingyun { color: #6477bd; }
