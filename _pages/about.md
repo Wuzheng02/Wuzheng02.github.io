@@ -82,7 +82,7 @@ Zhang老师作为导师的本科生或上海交通大学的校内本科生进行
 </article>
 <article class="publication-item" id="publication-4">
 <h3 class="publication-title">4. OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents</h3>
-<p class="publication-authors">Pengzhou Cheng*, <strong>Zheng Wu</strong>, Zongru Wu, Aston Zhang, Zhuosheng Zhang#, Gongshen Liu#. </p>
+<p class="publication-authors">Pengzhou Cheng*, <strong>Zheng Wu*</strong>, Zongru Wu, Aston Zhang, Zhuosheng Zhang#, Gongshen Liu#. </p>
 <div class="publication-meta"><span class="publication-venue">ACL 2025</span><span class="publication-links"><a class="publication-link" href="https://arxiv.org/pdf/2503.16465" aria-label="Paper" title="Paper" target="_blank" rel="noopener"><svg viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M4 2h8l4 4v12H4V2zm7 1.6V7h3.4L11 3.6zM6.5 10h7v1.4h-7V10zm0 3h7v1.4h-7V13z"/></svg></a><a class="publication-link" href="https://github.com/Wuzheng02/OS-Kairos" aria-label="Code" title="Code" target="_blank" rel="noopener"><svg viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M10 0a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48v-1.7c-2.78.6-3.37-1.18-3.37-1.18-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.56-1.11-4.56-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.64 0 0 .84-.27 2.75 1.02A9.56 9.56 0 0 1 10 5.06c.85 0 1.71.11 2.51.34 1.91-1.29 2.75-1.02 2.75-1.02.55 1.37.2 2.39.1 2.64.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.69-4.57 4.94.36.31.68.92.68 1.85v2.52c0 .26.17.57.68.48A10 10 0 0 0 10 0z"/></svg></a></span></div>
 </article>
 <article class="publication-item" id="publication-5">
