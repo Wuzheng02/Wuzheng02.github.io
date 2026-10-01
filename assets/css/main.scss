@@ -122,3 +122,91 @@
   font-weight:600;
 
 }
+
+/* Compact education and internship cards */
+.page__content {
+  .experience-list {
+    display: grid;
+    gap: .8rem;
+    margin: 1rem 0 2rem;
+  }
+
+  .experience-card {
+    padding: 1rem 1.15rem;
+    border: 1px solid #e5eaf1;
+    border-left: 3px solid #5a83bd;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(31, 50, 79, .045);
+
+    p {
+      margin: .4rem 0 0;
+      color: #596579;
+      line-height: 1.6;
+    }
+  }
+
+  .experience-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: .75rem;
+
+    strong {
+      color: #20334e;
+    }
+
+    time {
+      flex: 0 0 auto;
+      color: #738096;
+      font-size: .88em;
+      white-space: nowrap;
+    }
+  }
+
+  .experience-note {
+    margin-left: .5rem;
+    color: #738096;
+    font-size: .9em;
+  }
+
+  .brand-marks {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .35rem;
+    margin-left: .55rem;
+    vertical-align: middle;
+  }
+
+  .brand-mark {
+    display: inline-block;
+    padding: .13rem .55rem;
+    border: 1px solid currentColor;
+    border-radius: 999px;
+    font-size: .76em;
+    font-weight: 700;
+    line-height: 1.45;
+    letter-spacing: .015em;
+  }
+
+  .brand-tencent { color: #2878d0; }
+  .brand-weixin { color: #20a66a; }
+  .brand-qingyun { color: #6477bd; }
+  .brand-meituan { color: #d78325; }
+  .brand-longcat { color: #6548ae; }
+  .brand-oppo { color: #168b55; letter-spacing: .08em; }
+}
+
+@media (max-width: 600px) {
+  .page__content {
+    .experience-heading {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: .15rem;
+    }
+
+    .experience-note { display: block; margin: .2rem 0 0; }
+    .brand-marks { margin: .5rem 0 0; }
+  }
+}
