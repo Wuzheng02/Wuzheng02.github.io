@@ -1,20 +1,11 @@
 ---
-author_profile: true
 permalink: /
+title: "About Me"
+author_profile: true
 redirect_from:
-- /about/
-- /about.html
-title: About Me
+  - /about/
+  - /about.html
 ---
-
-------------------------------------------------------------------------
-
-permalink: / title: "About Me" author_profile: true redirect_from:
-
--   /about/
--   /about.html
-
-------------------------------------------------------------------------
 
 My name is **Zheng Wu**, and I am currently a Master's student at the
 School of Computer Science, Shanghai Jiao Tong University, under the
@@ -31,34 +22,34 @@ WXG.
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng
 Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
-------------------------------------------------------------------------
+
 
 # Education
 
 **B.Eng. in School of Computer Science, Shanghai Jiao Tong University**
-`<small>`{=html}Sept. 2021 -- June 2025`</small>`{=html}
+<small>Sept. 2021 -- June 2025</small>
 
-::: {align="right"}
-Supervisor: Prof. Zhuosheng Zhang
-:::
+<div align="right">
+Supervisor: Prof. Zhuosheng Zhang
+</div>
 
 **M.Eng. in School of Computer Science, Shanghai Jiao Tong University**
-`<small>`{=html}Sept. 2025 -- Present`</small>`{=html}
+<small>Sept. 2025 -- Present</small>
 
-::: {align="right"}
-Supervisor: Prof. Zhuosheng Zhang
-:::
+<div align="right">
+Supervisor: Prof. Zhuosheng Zhang
+</div>
 
 # Internship
 
 **Qingyun Plan Intern, WeLM Foundation Model Team, Tencent WXG**
-`<small>`{=html}Oct. 2026 -- Present`</small>`{=html}
+<small>Oct. 2026 -- Present</small>
 
-**General Agent Team, LongCat, Meituan** `<small>`{=html}Jan. 2026 --
-Sept. 2026`</small>`{=html}
+**General Agent Team, LongCat, Meituan** <small>Jan. 2026 --
+Sept. 2026</small>
 
-**Topology Lab，OPPO Research Institute** `<small>`{=html}June 2025 --
-Jan. 2026`</small>`{=html}
+**Topology Lab，OPPO Research Institute** <small>June 2025 --
+Jan. 2026</small>
 
 # Awards & Honors
 
