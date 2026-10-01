@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "About Me"
 author_profile: true
+permalink: /
 redirect_from:
-  - /about/
-  - /about.html
+- /about/
+- /about.html
+title: About Me
 ---
 
 My name is **Zheng Wu**, and I am currently a Master's student at the
@@ -22,36 +22,37 @@ WXG.
 如果您对我的研究方向感兴趣，欢迎与我联系、探讨合作可能性。尤其欢迎有意向选择Zhuosheng
 Zhang老师作为导师的本科生或上海交通大学的校内本科生进行科研实习与合作。
 
+## Education
 
-
-# Education
-
-**B.Eng. in School of Computer Science, Shanghai Jiao Tong University**
-<small>Sept. 2021 -- June 2025</small>
-
-<div align="right">
-Supervisor: Prof. Zhuosheng Zhang
+<div class="experience-list">
+<article class="experience-card">
+<div class="experience-heading"><strong>B.Eng. in Computer Science</strong><time>Sept. 2021 – June 2025</time></div>
+<p>Shanghai Jiao Tong University <span class="experience-note">Supervisor: Prof. Zhuosheng Zhang</span></p>
+</article>
+<article class="experience-card">
+<div class="experience-heading"><strong>M.Eng. in Computer Science</strong><time>Sept. 2025 – Present</time></div>
+<p>Shanghai Jiao Tong University <span class="experience-note">Supervisor: Prof. Zhuosheng Zhang</span></p>
+</article>
 </div>
 
-**M.Eng. in School of Computer Science, Shanghai Jiao Tong University**
-<small>Sept. 2025 -- Present</small>
+## Internship
 
-<div align="right">
-Supervisor: Prof. Zhuosheng Zhang
+<div class="experience-list">
+<article class="experience-card">
+<div class="experience-heading"><strong>Qingyun Plan Intern · WeLM Foundation Model Team</strong><time>Oct. 2026 – Present</time></div>
+<p>Tencent WXG <span class="brand-marks"><span class="brand-mark brand-tencent">Tencent</span><span class="brand-mark brand-weixin">Weixin</span><span class="brand-mark brand-qingyun">Qingyun Plan</span></span></p>
+</article>
+<article class="experience-card">
+<div class="experience-heading"><strong>General Agent Team</strong><time>Jan. 2026 – Sept. 2026</time></div>
+<p>Meituan <span class="brand-marks"><span class="brand-mark brand-meituan">美团 · meituan</span><span class="brand-mark brand-longcat">LongCat</span></span></p>
+</article>
+<article class="experience-card">
+<div class="experience-heading"><strong>Topology Lab · OPPO Research Institute</strong><time>June 2025 – Jan. 2026</time></div>
+<p><span class="brand-marks"><span class="brand-mark brand-oppo">OPPO</span></span></p>
+</article>
 </div>
 
-# Internship
-
-**Qingyun Plan Intern, WeLM Foundation Model Team, Tencent WXG**
-<small>Oct. 2026 -- Present</small>
-
-**General Agent Team, LongCat, Meituan** <small>Jan. 2026 --
-Sept. 2026</small>
-
-**Topology Lab，OPPO Research Institute** <small>June 2025 --
-Jan. 2026</small>
-
-# Awards & Honors
+## Awards & Honors
 
 **National Scholarship**, 2026 (top 0.2% nationwide)
 
@@ -61,7 +62,7 @@ Jan. 2026</small>
 
 **National Scholarship**, 2022 (top 0.2% nationwide)
 
-# Publications
+## Publications
 
 -   Equal contribution. \# Corresponding Author.
 
@@ -246,7 +247,7 @@ Liu#, Zhuosheng Zhang#. **Preprint** ·
 [Paper](https://arxiv.org/pdf/2510.02204) ·
 [Code](https://github.com/LZ-Dong/Reasoning-Executing-Gaps)
 
-# Tutorials and Contributions
+## Tutorials and Contributions
 
 Participating: **Dive into LLMs《动手学大模型》Course Series** ![GitHub
 stars](https://img.shields.io/github/stars/Lordog/dive-into-llms?style=social)
@@ -256,7 +257,7 @@ Link](https://img.shields.io/badge/Course-Link-blue)](https://github.com/Lordog/
 Participating: **《大模型开发全流程》Course Series** [![Course
 Link](https://img.shields.io/badge/Course-Link-blue)](https://www.hiascend.com/edu/growth/lm-development#classification-floor-1)
 
-# Academic Services
+## Academic Services
 
 Reviewer of conferences:
 
@@ -266,4 +267,4 @@ Reviewer of journals:
 
 TIFS, IJHCI
 
-`<a href="https://info.flagcounter.com/Nc4J">`{=html}`<img src="https://s05.flagcounter.com/mini/Nc4J/bg_F5FFFA/txt_000000/border_78CCCC/flags_0/" alt="Flag Counter" border="0">`{=html}`</a>`{=html}
+<a href="https://info.flagcounter.com/Nc4J"><img src="https://s05.flagcounter.com/mini/Nc4J/bg_F5FFFA/txt_000000/border_78CCCC/flags_0/" alt="Flag Counter" loading="lazy"></a>
