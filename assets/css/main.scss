@@ -41,3 +41,84 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* ================================
+   Zheng Wu Homepage Custom Style
+   ================================ */
+
+
+.page__content {
+
+  h1 {
+    margin-top: 2.2em;
+    padding-bottom: .35em;
+    border-bottom: 2px solid #edf2f7;
+    letter-spacing: .02em;
+  }
+
+
+  h2 {
+    color: #17365d;
+    margin-top: 2em;
+  }
+
+
+  p {
+    line-height: 1.9;
+  }
+
+
+  strong {
+    color: #17365d;
+  }
+
+}
+
+
+/* Hero intro */
+
+.page__content:first-child {
+
+}
+
+
+/* Publication enhancement */
+
+.page__content a {
+  color: #2563eb;
+}
+
+
+.page__content a:hover {
+  text-decoration: underline;
+}
+
+
+/* timeline style */
+
+.archive__item-title {
+  font-weight: 600;
+}
+
+
+/* badges */
+
+.venue-badge {
+
+  display:inline-block;
+
+  padding:3px 10px;
+
+  margin-left:5px;
+
+  border-radius:15px;
+
+  background:#eef5ff;
+
+  color:#2563eb;
+
+  font-size:.85em;
+
+  font-weight:600;
+
+}
