@@ -48,7 +48,7 @@ Zhang老师作为导师的本科生或上海交通大学的校内本科生进行
 </article>
 <article class="experience-card">
 <div class="experience-heading"><strong>Topology Lab · OPPO Research Institute</strong><time>June 2025 – Jan. 2026</time></div>
-<p><span class="brand-marks"><img class="experience-logo logo-oppo" src="https://cdn.simpleicons.org/oppo/2D683D" alt="OPPO" loading="lazy"></span></p>
+<p>OPPO <span class="brand-marks"><img class="experience-logo logo-oppo" src="https://cdn.simpleicons.org/oppo/2D683D" alt="OPPO" loading="lazy"></span></p>
 </article>
 </div>
 
