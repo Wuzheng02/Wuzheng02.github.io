@@ -39,11 +39,11 @@ Zhang老师作为导师的本科生或上海交通大学的校内本科生进行
 
 <div class="experience-list">
 <article class="experience-card">
-<div class="experience-heading"><strong>Qingyun Plan Intern · WeLM Foundation Model Team</strong><time>Oct. 2026 – Present</time></div>
+<div class="experience-heading"><strong>Qingyun Plan Intern · WeLM Foundation Model Team · Tencent</strong><time>Oct. 2026 – Present</time></div>
 <p>Tencent WXG <span class="brand-marks"><img class="experience-logo logo-tencent" src="https://www.tencent.net.cn/wp-content/uploads/2022/12/03_Tencent_English-logo.png" alt="Tencent" loading="lazy"><img class="experience-logo logo-weixin" src="https://cdn.simpleicons.org/wechat/07C160" alt="Weixin" loading="lazy"><span class="brand-mark brand-qingyun"><span aria-hidden="true">☁</span> 腾讯青云计划 · Project Up</span></span></p>
 </article>
 <article class="experience-card">
-<div class="experience-heading"><strong>General Agent Team</strong><time>Jan. 2026 – Sept. 2026</time></div>
+<div class="experience-heading"><strong>General Agent Team · Meituan LongCat Foundation Model Team</strong><time>Jan. 2026 – Sept. 2026</time></div>
 <p>Meituan <span class="brand-marks"><img class="experience-logo logo-meituan" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Meituan_English_Logo.png" alt="Meituan" loading="lazy"><img class="experience-logo logo-longcat" src="https://s3plus.meituan.net/aigc-media-resources/longcat/big-cat-logo.png" alt="LongCat" loading="lazy"></span></p>
 </article>
 <article class="experience-card">
