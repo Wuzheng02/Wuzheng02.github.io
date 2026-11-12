@@ -230,5 +230,5 @@ AAAI, ACL, ICML, EMNLP, ICLR
 
 Reviewer of journals:
 
-TIFS, IJHCI
+TMM, TIFS, IJHCI
 
